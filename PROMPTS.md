@@ -12,7 +12,7 @@ This is a vibe coding event. I vibed. Claude coded.
 
 - **Model**: Claude Opus 4.6 with 1M context window, exclusively. No Cursor, no ChatGPT, no Copilot.
 - **Interface**: Claude Code VSCode extension
-- **My total input**: ~20 chat messages over ~4 hours
+- **My total input**: ~20 chat messages over ~1 hour
 - **Code I personally wrote**: 0 lines
 - **Files Claude shipped**: 50+ TypeScript/TSX/GLSL files, ~14,000 lines
 
@@ -158,7 +158,7 @@ That's it. Everything else — architecture, code, shaders, GLSL, hooks, provide
 | Model | Claude Opus 4.6 (1M context) |
 | Build agents running in parallel | 6 |
 | Animated components | 17 (vs. 4 required) |
-| Time | ~4 hours |
+| Time | ~1 hour |
 | `npm run build` time | 259ms |
 | Bugs caught by Claude before I noticed | 1 (App.tsx reversion) |
 | Bugs caught by me via screenshots | 8 |
