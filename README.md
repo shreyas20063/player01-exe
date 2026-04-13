@@ -10,7 +10,7 @@ Built with Claude Opus 4.6, an army of 6 parallel AI agents, and an unreasonable
 
 ## Live Demo
 
-> **[TODO: Vercel link here after deploy]**
+**https://shreyas20063.github.io/player01-exe/**
 
 ---
 
