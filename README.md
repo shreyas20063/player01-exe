@@ -47,8 +47,6 @@ Plus: `whileInView` staggered entry (50ms per card), achievement tracking (`FIRS
 
 **File**: [`src/sections/ArsenalSection.tsx`](src/sections/ArsenalSection.tsx)
 
-**Prompt gist**: *"Build a 12-card magnetic hover grid with a 5-layer hover stack: magnetic pull, 3D tilt, radial glow, RGB border glitch, label scramble. Each layer must be independently noticeable. Judges will hover every single card."*
-
 ---
 
 ### 2. Scroll Transition Component — `Boss Gauntlet Horizontal Pin`
@@ -66,8 +64,6 @@ Plus: `whileInView` staggered entry (50ms per card), achievement tracking (`FIRS
 
 **Files**: [`src/sections/BossGauntlet.tsx`](src/sections/BossGauntlet.tsx), [`src/three/BossShape.tsx`](src/three/BossShape.tsx), [`src/three/shaders/rock.vert.glsl`](src/three/shaders/rock.vert.glsl), [`src/three/shaders/rock.frag.glsl`](src/three/shaders/rock.frag.glsl)
 
-**Prompt gist**: *"GSAP ScrollTrigger horizontal pin, scrub: 1, three 100vw boss panels. Replace the SVG feTurbulence splash with a real R3F morphing shape that reacts to the cursor and matches each boss's accent color via a uAccent uniform."*
-
 ---
 
 ### 3. 3D Interactive Element — `Morphing Shader Orbs`
@@ -82,8 +78,6 @@ Plus: `whileInView` staggered entry (50ms per card), achievement tracking (`FIRS
 - Each boss panel gets its own accent: Boss 01 = magenta, Boss 02 = cyan, Boss 03 = amber.
 
 **Files**: [`src/three/BossShape.tsx`](src/three/BossShape.tsx), [`src/three/shaders/`](src/three/shaders/)
-
-**Prompt gist**: *"Pass uAccent as a vec3 uniform so each boss gets its own color. The ENTIRE shader responds to it: fresnel, inner glow, veins, cracks, cursor hotspot. Make it punchy, not bland."*
 
 ---
 
@@ -103,8 +97,6 @@ Spring physics via `useMotionValue` + `useSpring` (stiffness 500, damping 40). U
 
 **File**: [`src/components/cursor/CustomCursor.tsx`](src/components/cursor/CustomCursor.tsx)
 
-**Prompt gist**: *"Crosshair cursor with data-cursor label morphing, mix-blend-mode difference, spring follow. Three modes: idle, lock, label. Hidden on touch."*
-
 ---
 
 ### 5. Scroll Reveal Component — `Lore Scroll Comic Panels`
@@ -121,8 +113,6 @@ Spring physics via `useMotionValue` + `useSpring` (stiffness 500, damping 40). U
 
 **File**: [`src/sections/LoreScroll.tsx`](src/sections/LoreScroll.tsx)
 
-**Prompt gist**: *"4 narrative comic panels with clipPath shard reveals, parallax backgrounds, velocity-reactive skew. Comic-book aesthetic with thick borders."*
-
 ---
 
 ### 6. Card/Deck Component — `Character Select Stat Sheet`
@@ -137,8 +127,6 @@ Spring physics via `useMotionValue` + `useSpring` (stiffness 500, damping 40). U
 - Flavor text per stat in RPG idiom ("YEARS SHIPPED // 09", "COFFEE/DAY // 04")
 
 **File**: [`src/sections/CharacterSelect.tsx`](src/sections/CharacterSelect.tsx)
-
-**Prompt gist**: *"Two-column RPG character select. Left: segmented stat bars with staggered fill. Right: wireframe SVG portrait with pathLength draw animation."*
 
 ---
 
@@ -155,8 +143,6 @@ Spring physics via `useMotionValue` + `useSpring` (stiffness 500, damping 40). U
 - 15 achievable achievements persisted to `localStorage`
 
 **File**: [`src/components/hud/HUDAchievementToast.tsx`](src/components/hud/HUDAchievementToast.tsx)
-
-**Prompt gist**: *"Subscribe to store.unlocked, diff-detect new IDs, queue toasts. AnimatePresence slide-in from right, 3s auto-dismiss, magenta accent border."*
 
 ---
 
