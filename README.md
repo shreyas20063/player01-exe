@@ -207,7 +207,7 @@ on max efforts, spinning up ur own self as friends to help u out, wt
 would u do with an army.
 ```
 
-And then it did.
+And then it did. Not sub-agents, baby — it's the experimental **agent teams mode**. 6 actual duking agents running in parallel, each with their own file ownership manifest, zero conflicts.
 
 1. Two planning agents (tech architecture + creative direction) dispatched in parallel
 2. Solo foundation pass: design tokens, types, data, store, hooks, providers
