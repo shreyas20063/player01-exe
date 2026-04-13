@@ -1,0 +1,128 @@
+@import "tailwindcss";
+
+@theme {
+  --color-void: #07050C;
+  --color-surface: #0F0A1A;
+  --color-elev: #15102A;
+  --color-grid-line: #1F1A38;
+
+  --color-text: #F5F0FF;
+  --color-muted: #8A85A8;
+  --color-dim: #4A4566;
+
+  --color-magenta: #FF2D6B;
+  --color-cyan: #4AF8FF;
+  --color-amber: #FFB14E;
+  --color-lime: #C6FF3D;
+  --color-danger: #FF3355;
+
+  --font-display: "Anton", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+  --font-body: "Space Grotesk", system-ui, sans-serif;
+
+  --shadow-neon-magenta: 0 0 24px #FF2D6B, 0 0 48px #FF2D6B55;
+  --shadow-neon-cyan: 0 0 18px #4AF8FF, 0 0 36px #4AF8FF55;
+}
+
+@layer base {
+  html,
+  body {
+    background: var(--color-void);
+    color: var(--color-text);
+    font-family: var(--font-mono);
+    -webkit-font-smoothing: antialiased;
+    overscroll-behavior: none;
+  }
+  html {
+    scrollbar-width: none;
+  }
+  html::-webkit-scrollbar {
+    display: none;
+  }
+  body {
+    min-height: 100vh;
+    min-height: 100svh;
+    overflow-x: hidden;
+    margin: 0;
+  }
+  #root {
+    min-height: 100vh;
+    min-height: 100svh;
+  }
+  @media (hover: hover) and (pointer: fine) {
+    body,
+    body a,
+    body button,
+    body input,
+    body textarea,
+    body [data-cursor] {
+      cursor: none;
+    }
+  }
+  ::selection {
+    background: var(--color-magenta);
+    color: var(--color-void);
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-cyan);
+    outline-offset: 3px;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+    letter-spacing: 0.01em;
+  }
+  .font-mono {
+    font-family: var(--font-mono);
+  }
+  .font-body {
+    font-family: var(--font-body);
+  }
+
+  .text-glitch {
+    text-shadow:
+      2px 0 var(--color-cyan),
+      -2px 0 var(--color-magenta);
+  }
+
+  .crt-scanlines {
+    background-image: repeating-linear-gradient(
+      to bottom,
+      rgba(245, 240, 255, 0.04) 0 1px,
+      transparent 1px 3px
+    );
+  }
+
+  .bg-grid-lines {
+    background-image:
+      linear-gradient(var(--color-grid-line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--color-grid-line) 1px, transparent 1px);
+    background-size: 48px 48px;
+    background-position: -1px -1px;
+  }
+
+  .text-stroke-magenta {
+    -webkit-text-stroke: 1px var(--color-magenta);
+    color: transparent;
+  }
+
+  .glow-magenta {
+    box-shadow: var(--shadow-neon-magenta);
+  }
+  .glow-cyan {
+    box-shadow: var(--shadow-neon-cyan);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}

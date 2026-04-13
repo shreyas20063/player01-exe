@@ -1,0 +1,16 @@
+export const bootLog: string[] = [
+  'PLAYER_01.exe v2.6.4',
+  '(c) RIOS INDUSTRIES — UNAUTHORIZED USE PROHIBITED',
+  '',
+  'POWER-ON SELF TEST ...',
+  'MEMORY CHECK .............. 65536K OK',
+  'GPU: APPLE M-SERIES ....... DETECTED',
+  'AUDIO ..................... MUTED BY DEFAULT',
+  'INPUT: KEYBOARD / MOUSE ... READY',
+  '',
+  'LOADING WORLD ............. [██████████] 100%',
+  'INITIALIZING RENDERER ....',
+  'SYNTHESIZING ATMOSPHERE ..',
+  '',
+  '>>> PRESS ANY KEY TO BEGIN <<<',
+]
