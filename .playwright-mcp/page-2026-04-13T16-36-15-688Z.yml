@@ -1,0 +1,830 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e5]: _
+    - generic: "[press any key to skip]"
+  - main [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e8]: PLAYER_01 // CREATIVE TECHNOLOGIST // SF
+      - heading "PLAYER_01" [level=1] [ref=e10]:
+        - generic: PLAYER_01
+        - generic: PLAYER_01
+        - generic: PLAYER_01
+        - text: PLAYER_01
+      - generic [ref=e11]: "> PRESS START"
+      - generic [ref=e12]:
+        - generic [ref=e15]: attract mode
+        - generic [ref=e18]: HOLOGRAM.fm // LATENCY.coffee // KERNEL_PANIC.exe // HOLOGRAM.fm // LATENCY.coffee // KERNEL_PANIC.exe
+    - generic [ref=e19]:
+      - generic:
+        - generic: REC
+        - generic: PLAYER_01.exe
+        - generic: // v9.14.0
+      - generic: ONLINE · SAN FRANCISCO, CA
+      - generic [ref=e20]:
+        - generic [ref=e23]: INSERT_COIN // PRESS ANY KEY
+        - heading "KAI RIOS" [level=1] [ref=e24]:
+          - generic [ref=e25]:
+            - generic [ref=e26]: KAI RIOS
+            - generic [ref=e27]: KAI RIOS
+            - generic [ref=e28]:
+              - generic [ref=e29]: K
+              - generic [ref=e30]: A
+              - generic [ref=e31]: I
+              - generic [ref=e33]: R
+              - generic [ref=e34]: I
+              - generic [ref=e35]: O
+              - generic [ref=e36]: S
+        - generic [ref=e38]: "> CREATIVE TECHNOLOGIST // SF"
+        - paragraph [ref=e40]: Kai Rios is a creative technologist in San Francisco who treats web pages like arcade cabinets. For nine years he has been the person teams call when "it works, but it doesn't feel right" — the engineer who can read a Figma file and a fragment shader in the same breath, ship a Stripe integration on Tuesday and a WebGL particle system on Thursday, and explain both to a non-technical founder over coffee.
+        - generic [ref=e41]:
+          - link "▶ START GAME →" [ref=e42]:
+            - /url: "#character"
+            - generic [ref=e43]: ▶ START GAME
+            - generic [ref=e44]: →
+          - link "◆ HIRE PLAYER_01" [ref=e45]:
+            - /url: "#contact"
+            - generic [ref=e46]: ◆ HIRE PLAYER_01
+          - generic [ref=e47]: ★ OPEN — LEAD MOTION / DESIGN ENG / WEIRD COLLABS
+      - generic [ref=e50]: SCROLL TO ENTER
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - generic [ref=e57]: PROFILE // SAVE_01
+        - heading "CHARACTER_SELECT" [level=2] [ref=e58]
+        - generic [ref=e59]: // CREATIVE TECHNOLOGIST // SF
+      - generic [ref=e60]:
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - generic [ref=e64]:
+              - generic [ref=e65]: KAI RIOS
+              - generic [ref=e66]: "@player_01 — San Francisco, CA"
+            - generic [ref=e67]:
+              - generic [ref=e68]: RANK
+              - generic [ref=e69]: VIBE ARCHITECT
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - generic [ref=e72]: STAMINA
+              - generic [ref=e75]:
+                - generic [ref=e76]: "00"
+                - generic [ref=e77]: /
+                - generic [ref=e78]: "15"
+              - generic [ref=e79]: // YEARS SHIPPED // 09
+            - generic [ref=e80]:
+              - generic [ref=e81]: FOCUS
+              - generic [ref=e84]:
+                - generic [ref=e85]: "00"
+                - generic [ref=e86]: /
+                - generic [ref=e87]: "15"
+              - generic [ref=e88]: // COFFEE/DAY // 04
+            - generic [ref=e89]:
+              - generic [ref=e90]: CHAOS
+              - generic [ref=e93]:
+                - generic [ref=e94]: "00"
+                - generic [ref=e95]: /
+                - generic [ref=e96]: "15"
+              - generic [ref=e97]: // TYPOS/COMMIT // 02
+            - generic [ref=e98]:
+              - generic [ref=e99]: EMPATHY
+              - generic [ref=e102]:
+                - generic [ref=e103]: "00"
+                - generic [ref=e104]: /
+                - generic [ref=e105]: "15"
+              - generic [ref=e106]: // TEAMS LED // 03
+            - generic [ref=e107]:
+              - generic [ref=e108]: CURIOSITY
+              - generic [ref=e111]:
+                - generic [ref=e112]: "00"
+                - generic [ref=e113]: /
+                - generic [ref=e114]: "15"
+              - generic [ref=e115]: // RABBIT HOLES // ∞
+          - generic [ref=e116]:
+            - generic [ref=e117]: CLASS
+            - generic [ref=e118]: CREATIVE TECHNOLOGIST
+            - paragraph [ref=e119]: Builds interfaces with body language.
+          - generic [ref=e120]:
+            - generic [ref=e121]: "AVAILABILITY: OPEN"
+            - generic [ref=e122]: LVL 09
+            - generic [ref=e123]: EST. 2014
+        - generic [ref=e125]:
+          - img [ref=e126]:
+            - generic [ref=e145]: BIO-SCAN // ACTIVE
+            - generic [ref=e146]: "SUBJECT: PLAYER_01"
+          - generic [ref=e147]:
+            - generic [ref=e148]: "MESH: 248 VERTS"
+            - generic [ref=e149]: "RENDER: WIREFRAME_v2"
+    - generic [ref=e150]:
+      - generic [ref=e151]:
+        - separator "LOG FILE // ORIGIN.STORY" [ref=e152]:
+          - generic [ref=e153]: //
+          - generic [ref=e155]: LOG FILE // ORIGIN.STORY
+          - generic [ref=e157]: //
+        - heading "LORE // HOW WE GOT HERE" [level=2] [ref=e158]
+      - generic [ref=e159]:
+        - article [ref=e160]:
+          - generic [ref=e163]: "2014"
+          - generic [ref=e164]:
+            - generic [ref=e165]:
+              - generic [ref=e166]: PANEL 01 / 04
+              - generic [ref=e167]: ◢◤
+              - generic [ref=e168]: "2014"
+            - generic [ref=e169]:
+              - heading "A SMALL TOWN. A PENTIUM III." [level=3] [ref=e170]
+              - paragraph [ref=e171]: A pirated copy of Flash MX on a beige tower. The modem screamed every night at 11. Built my first site for the town library — three pages, two gradients, one hit counter that lied.
+              - generic [ref=e172]: SAVED TO DISK
+        - article [ref=e176]:
+          - generic [ref=e179]: "2018"
+          - generic [ref=e180]:
+            - generic [ref=e181]:
+              - generic [ref=e182]: PANEL 02 / 04
+              - generic [ref=e183]: ▙▟
+              - generic [ref=e184]: "2018"
+            - generic [ref=e185]:
+              - heading "FIRST JOB. FIRST DEPLOY. FIRST 3AM ROLLBACK." [level=3] [ref=e186]
+              - paragraph [ref=e187]: A shared office above a laundromat. Learned that "ship it" and "ship it safely" are two different sports. Broke production on a Tuesday. Fixed it by Wednesday. Got a pizza out of it.
+              - generic [ref=e188]: SAVED TO DISK
+        - article [ref=e192]:
+          - generic [ref=e195]: "2021"
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - generic [ref=e198]: PANEL 03 / 04
+              - generic [ref=e199]: ◣◥
+              - generic [ref=e200]: "2021"
+            - generic [ref=e201]:
+              - heading "QUIT TO SHIP THINGS THAT FEEL." [level=3] [ref=e202]
+              - paragraph [ref=e203]: "Left the well-paying job to chase the thing I couldn't stop thinking about: why do some interfaces have body language and others feel like filling out a tax form. People paid attention. Then they paid money."
+              - generic [ref=e204]: SAVED TO DISK
+        - article [ref=e208]:
+          - generic [ref=e211]: "2026"
+          - generic [ref=e212]:
+            - generic [ref=e213]:
+              - generic [ref=e214]: PANEL 04 / 04
+              - generic [ref=e215]: ◆◇
+              - generic [ref=e216]: "2026"
+            - generic [ref=e217]:
+              - heading "STILL HERE. STILL SHIPPING. STILL WEIRD." [level=3] [ref=e218]
+              - paragraph [ref=e219]: A Mission District apartment full of monitors. A design tokens compiler that outputs shader uniforms. A cat named Segfault. And a portfolio you are currently scrolling through.
+              - generic [ref=e220]: SAVED TO DISK
+    - generic [ref=e225]:
+      - generic [ref=e226]:
+        - generic [ref=e229]: STAGE SELECT
+        - heading "WORLD_MAP" [level=2] [ref=e230]
+        - generic [ref=e231]: // 3 BOSSES DETECTED — CLICK TO ENGAGE
+      - img [ref=e233]:
+        - generic [ref=e267] [cursor=pointer]: BOSS 01
+        - generic [ref=e275] [cursor=pointer]: BOSS 02
+        - generic [ref=e283] [cursor=pointer]: BOSS 03
+      - generic [ref=e284]:
+        - generic [ref=e285]: "MAP: PLAYER_01_REGION"
+        - generic [ref=e286]: "DIFFICULTY: VARIES"
+        - generic [ref=e287]: CONTINUE?
+    - region "Boss Gauntlet" [ref=e289]:
+      - generic:
+        - generic:
+          - generic: SECTOR 03 // BOSS GAUNTLET
+        - generic: SCROLL ▶ ENGAGE
+      - generic [ref=e290]:
+        - article [ref=e291]:
+          - generic:
+            - img
+          - generic: BOSS 01
+          - generic [ref=e293]:
+            - generic [ref=e294]:
+              - generic [ref=e295]: ◆
+              - generic [ref=e296]: TARGET 01/03
+              - generic [ref=e297]: ·
+              - generic [ref=e298]: "2026"
+              - generic [ref=e299]: ·
+              - generic [ref=e300]: Lead Design Eng
+            - heading "HOLOGRAM.fm" [level=3] [ref=e301]
+            - paragraph [ref=e302]: “The radio station that listens back.”
+            - paragraph [ref=e303]: A real-time AI radio interface where an LLM DJ responds to listeners in voice, with reactive visualizers that shift between four shader regimes based on the music's harmonic content. Built in 11 weeks, shipped on a Tuesday, featured on Hacker News the next morning.
+            - generic [ref=e304]:
+              - generic [ref=e305]: Next.js
+              - generic [ref=e307]: WebGL2
+              - generic [ref=e309]: Web Audio
+              - generic [ref=e311]: ElevenLabs
+              - generic [ref=e313]: Cloudflare Workers
+              - generic [ref=e315]: Tone.js
+            - generic [ref=e317]:
+              - generic [ref=e318]:
+                - generic [ref=e319]: MAU
+                - generic [ref=e320]: 84K
+              - generic [ref=e321]:
+                - generic [ref=e322]: HN RANK
+                - generic [ref=e323]: "#3"
+              - generic [ref=e324]:
+                - generic [ref=e325]: AVG SESSION
+                - generic [ref=e326]: 6.2 MIN
+            - generic [ref=e327]:
+              - link "[ ENGAGE ▶ ]" [ref=e328]:
+                - /url: https://hologram.fm
+              - link "[ INSPECT SRC ]" [ref=e329]:
+                - /url: https://github.com/kairios/hologram
+          - generic:
+            - generic: VS
+            - generic: NEXT BOSS ▶
+          - generic:
+            - generic: // PANEL
+            - generic: 01 / 03
+        - article [ref=e330]:
+          - generic:
+            - img
+          - generic: BOSS 02
+          - generic [ref=e332]:
+            - generic [ref=e333]:
+              - generic [ref=e334]: ◆
+              - generic [ref=e335]: TARGET 02/03
+              - generic [ref=e336]: ·
+              - generic [ref=e337]: "2025"
+              - generic [ref=e338]: ·
+              - generic [ref=e339]: Solo Build
+            - heading "LATENCY.coffee" [level=3] [ref=e340]
+            - paragraph [ref=e341]: “A cafe POS that doesn't make baristas cry.”
+            - paragraph [ref=e342]: Rebuilt the order-management UI for a Bay Area coffee chain after watching a barista miss a ticket at 7:42am on a Wednesday. Net new POS layer running on iPad with offline-first CRDT sync and a custom haptic feedback grammar that taught itself to the team in three shifts.
+            - generic [ref=e343]:
+              - generic [ref=e344]: SwiftUI
+              - generic [ref=e346]: Rust
+              - generic [ref=e348]: CRDT
+              - generic [ref=e350]: PostgreSQL
+              - generic [ref=e352]: Tailscale
+            - generic [ref=e354]:
+              - generic [ref=e355]:
+                - generic [ref=e356]: MIS-POURS
+                - generic [ref=e357]: "-47%"
+              - generic [ref=e358]:
+                - generic [ref=e359]: TICKET TIME
+                - generic [ref=e360]: "-2.1s"
+              - generic [ref=e361]:
+                - generic [ref=e362]: LOCATIONS LIVE
+                - generic [ref=e363]: "11"
+            - link "[ ENGAGE ▶ ]" [ref=e365]:
+              - /url: https://latency.coffee
+          - generic:
+            - generic: VS
+            - generic: NEXT BOSS ▶
+          - generic:
+            - generic: // PANEL
+            - generic: 02 / 03
+        - article [ref=e366]:
+          - generic:
+            - img
+          - generic: BOSS 03
+          - generic [ref=e368]:
+            - generic [ref=e369]:
+              - generic [ref=e370]: ◆
+              - generic [ref=e371]: TARGET 03/03
+              - generic [ref=e372]: ·
+              - generic [ref=e373]: "2025"
+              - generic [ref=e374]: ·
+              - generic [ref=e375]: Creator + Engineer
+            - heading "KERNEL_PANIC.exe" [level=3] [ref=e376]
+            - paragraph [ref=e377]: “A type-system tutorial disguised as a roguelike.”
+            - paragraph [ref=e378]: An in-browser teaching game for TypeScript's type system where each floor of the dungeon is a generic constraint puzzle. Built as an experiment, became a course, became a Tuesday-night livestream that three bootcamps now assign as homework.
+            - generic [ref=e379]:
+              - generic [ref=e380]: React 19
+              - generic [ref=e382]: Zustand
+              - generic [ref=e384]: ts-morph
+              - generic [ref=e386]: WebAssembly
+              - generic [ref=e388]: Three.js
+            - generic [ref=e390]:
+              - generic [ref=e391]:
+                - generic [ref=e392]: LEARNERS
+                - generic [ref=e393]: 23K
+              - generic [ref=e394]:
+                - generic [ref=e395]: RATING
+                - generic [ref=e396]: 4.9★
+              - generic [ref=e397]:
+                - generic [ref=e398]: BOOTCAMPS
+                - generic [ref=e399]: "3"
+            - generic [ref=e400]:
+              - link "[ ENGAGE ▶ ]" [ref=e401]:
+                - /url: https://kernelpanic.rocks
+              - link "[ INSPECT SRC ]" [ref=e402]:
+                - /url: https://github.com/kairios/kernel-panic
+          - generic:
+            - generic: // PANEL
+            - generic: 03 / 03
+    - generic [ref=e404]:
+      - generic [ref=e405]:
+        - generic [ref=e408]: PLAYER_01 // LOADOUT
+        - heading "ARSENAL" [level=2] [ref=e409]
+        - generic [ref=e410]:
+          - generic [ref=e411]: //
+          - generic [ref=e412]: 12 WEAPONS EQUIPPED
+          - generic [ref=e413]: "[ HOVER TO INSPECT ]"
+      - generic [ref=e414]:
+        - generic [ref=e417]:
+          - generic [ref=e418]:
+            - generic [ref=e419]: SLOT_01
+            - generic [ref=e420]: kit
+          - generic [ref=e422]: FIGMA.kit
+          - generic [ref=e423]:
+            - generic [ref=e424]:
+              - generic [ref=e425]: MASTERY
+              - generic [ref=e426]: 92%
+            - generic [ref=e428]:
+              - generic [ref=e429]: █
+              - generic [ref=e430]: █
+              - generic [ref=e431]: █
+              - generic [ref=e432]: █
+              - generic [ref=e433]: █
+              - generic [ref=e434]: █
+              - generic [ref=e435]: █
+              - generic [ref=e436]: █
+              - generic [ref=e437]: █
+              - generic [ref=e438]: █
+              - generic [ref=e439]: █
+              - generic [ref=e440]: █
+        - generic [ref=e443]:
+          - generic [ref=e444]:
+            - generic [ref=e445]: SLOT_02
+            - generic [ref=e446]: tool
+          - generic [ref=e448]: BLENDER.tool
+          - generic [ref=e449]:
+            - generic [ref=e450]:
+              - generic [ref=e451]: MASTERY
+              - generic [ref=e452]: 71%
+            - generic [ref=e454]:
+              - generic [ref=e455]: █
+              - generic [ref=e456]: █
+              - generic [ref=e457]: █
+              - generic [ref=e458]: █
+              - generic [ref=e459]: █
+              - generic [ref=e460]: █
+              - generic [ref=e461]: █
+              - generic [ref=e462]: █
+              - generic [ref=e463]: █
+              - generic [ref=e464]: ░
+              - generic [ref=e465]: ░
+              - generic [ref=e466]: ░
+        - generic [ref=e469]:
+          - generic [ref=e470]:
+            - generic [ref=e471]: SLOT_03
+            - generic [ref=e472]: weapon
+          - generic [ref=e474]: THREE.weapon
+          - generic [ref=e475]:
+            - generic [ref=e476]:
+              - generic [ref=e477]: MASTERY
+              - generic [ref=e478]: 88%
+            - generic [ref=e480]:
+              - generic [ref=e481]: █
+              - generic [ref=e482]: █
+              - generic [ref=e483]: █
+              - generic [ref=e484]: █
+              - generic [ref=e485]: █
+              - generic [ref=e486]: █
+              - generic [ref=e487]: █
+              - generic [ref=e488]: █
+              - generic [ref=e489]: █
+              - generic [ref=e490]: █
+              - generic [ref=e491]: █
+              - generic [ref=e492]: ░
+        - generic [ref=e495]:
+          - generic [ref=e496]:
+            - generic [ref=e497]: SLOT_04
+            - generic [ref=e498]: shader
+          - generic [ref=e500]: GLSL.shader
+          - generic [ref=e501]:
+            - generic [ref=e502]:
+              - generic [ref=e503]: MASTERY
+              - generic [ref=e504]: 74%
+            - generic [ref=e506]:
+              - generic [ref=e507]: █
+              - generic [ref=e508]: █
+              - generic [ref=e509]: █
+              - generic [ref=e510]: █
+              - generic [ref=e511]: █
+              - generic [ref=e512]: █
+              - generic [ref=e513]: █
+              - generic [ref=e514]: █
+              - generic [ref=e515]: █
+              - generic [ref=e516]: ░
+              - generic [ref=e517]: ░
+              - generic [ref=e518]: ░
+        - generic [ref=e521]:
+          - generic [ref=e522]:
+            - generic [ref=e523]: SLOT_05
+            - generic [ref=e524]: weapon
+          - generic [ref=e526]: GSAP.weapon
+          - generic [ref=e527]:
+            - generic [ref=e528]:
+              - generic [ref=e529]: MASTERY
+              - generic [ref=e530]: 95%
+            - generic [ref=e532]:
+              - generic [ref=e533]: █
+              - generic [ref=e534]: █
+              - generic [ref=e535]: █
+              - generic [ref=e536]: █
+              - generic [ref=e537]: █
+              - generic [ref=e538]: █
+              - generic [ref=e539]: █
+              - generic [ref=e540]: █
+              - generic [ref=e541]: █
+              - generic [ref=e542]: █
+              - generic [ref=e543]: █
+              - generic [ref=e544]: █
+        - generic [ref=e547]:
+          - generic [ref=e548]:
+            - generic [ref=e549]: SLOT_06
+            - generic [ref=e550]: weapon
+          - generic [ref=e552]: FRAMER.weapon
+          - generic [ref=e553]:
+            - generic [ref=e554]:
+              - generic [ref=e555]: MASTERY
+              - generic [ref=e556]: 82%
+            - generic [ref=e558]:
+              - generic [ref=e559]: █
+              - generic [ref=e560]: █
+              - generic [ref=e561]: █
+              - generic [ref=e562]: █
+              - generic [ref=e563]: █
+              - generic [ref=e564]: █
+              - generic [ref=e565]: █
+              - generic [ref=e566]: █
+              - generic [ref=e567]: █
+              - generic [ref=e568]: █
+              - generic [ref=e569]: ░
+              - generic [ref=e570]: ░
+        - generic [ref=e573]:
+          - generic [ref=e574]:
+            - generic [ref=e575]: SLOT_07
+            - generic [ref=e576]: tool
+          - generic [ref=e578]: CURSOR.tool
+          - generic [ref=e579]:
+            - generic [ref=e580]:
+              - generic [ref=e581]: MASTERY
+              - generic [ref=e582]: 77%
+            - generic [ref=e584]:
+              - generic [ref=e585]: █
+              - generic [ref=e586]: █
+              - generic [ref=e587]: █
+              - generic [ref=e588]: █
+              - generic [ref=e589]: █
+              - generic [ref=e590]: █
+              - generic [ref=e591]: █
+              - generic [ref=e592]: █
+              - generic [ref=e593]: █
+              - generic [ref=e594]: █
+              - generic [ref=e595]: ░
+              - generic [ref=e596]: ░
+        - generic [ref=e599]:
+          - generic [ref=e600]:
+            - generic [ref=e601]: SLOT_08
+            - generic [ref=e602]: tool
+          - generic [ref=e604]: CLAUDE.tool
+          - generic [ref=e605]:
+            - generic [ref=e606]:
+              - generic [ref=e607]: MASTERY
+              - generic [ref=e608]: 89%
+            - generic [ref=e610]:
+              - generic [ref=e611]: █
+              - generic [ref=e612]: █
+              - generic [ref=e613]: █
+              - generic [ref=e614]: █
+              - generic [ref=e615]: █
+              - generic [ref=e616]: █
+              - generic [ref=e617]: █
+              - generic [ref=e618]: █
+              - generic [ref=e619]: █
+              - generic [ref=e620]: █
+              - generic [ref=e621]: █
+              - generic [ref=e622]: ░
+        - generic [ref=e625]:
+          - generic [ref=e626]:
+            - generic [ref=e627]: SLOT_09
+            - generic [ref=e628]: kit
+          - generic [ref=e630]: ABLETON.kit
+          - generic [ref=e631]:
+            - generic [ref=e632]:
+              - generic [ref=e633]: MASTERY
+              - generic [ref=e634]: 48%
+            - generic [ref=e636]:
+              - generic [ref=e637]: █
+              - generic [ref=e638]: █
+              - generic [ref=e639]: █
+              - generic [ref=e640]: █
+              - generic [ref=e641]: █
+              - generic [ref=e642]: █
+              - generic [ref=e643]: ░
+              - generic [ref=e644]: ░
+              - generic [ref=e645]: ░
+              - generic [ref=e646]: ░
+              - generic [ref=e647]: ░
+              - generic [ref=e648]: ░
+        - generic [ref=e651]:
+          - generic [ref=e652]:
+            - generic [ref=e653]: SLOT_10
+            - generic [ref=e654]: weapon
+          - generic [ref=e656]: R3F.weapon
+          - generic [ref=e657]:
+            - generic [ref=e658]:
+              - generic [ref=e659]: MASTERY
+              - generic [ref=e660]: 84%
+            - generic [ref=e662]:
+              - generic [ref=e663]: █
+              - generic [ref=e664]: █
+              - generic [ref=e665]: █
+              - generic [ref=e666]: █
+              - generic [ref=e667]: █
+              - generic [ref=e668]: █
+              - generic [ref=e669]: █
+              - generic [ref=e670]: █
+              - generic [ref=e671]: █
+              - generic [ref=e672]: █
+              - generic [ref=e673]: █
+              - generic [ref=e674]: ░
+        - generic [ref=e677]:
+          - generic [ref=e678]:
+            - generic [ref=e679]: SLOT_11
+            - generic [ref=e680]: kit
+          - generic [ref=e682]: RIVE.kit
+          - generic [ref=e683]:
+            - generic [ref=e684]:
+              - generic [ref=e685]: MASTERY
+              - generic [ref=e686]: 60%
+            - generic [ref=e688]:
+              - generic [ref=e689]: █
+              - generic [ref=e690]: █
+              - generic [ref=e691]: █
+              - generic [ref=e692]: █
+              - generic [ref=e693]: █
+              - generic [ref=e694]: █
+              - generic [ref=e695]: █
+              - generic [ref=e696]: █
+              - generic [ref=e697]: ░
+              - generic [ref=e698]: ░
+              - generic [ref=e699]: ░
+              - generic [ref=e700]: ░
+        - generic [ref=e703]:
+          - generic [ref=e704]:
+            - generic [ref=e705]: SLOT_12
+            - generic [ref=e706]: shader
+          - generic [ref=e708]: WASM.shader
+          - generic [ref=e709]:
+            - generic [ref=e710]:
+              - generic [ref=e711]: MASTERY
+              - generic [ref=e712]: 52%
+            - generic [ref=e714]:
+              - generic [ref=e715]: █
+              - generic [ref=e716]: █
+              - generic [ref=e717]: █
+              - generic [ref=e718]: █
+              - generic [ref=e719]: █
+              - generic [ref=e720]: █
+              - generic [ref=e721]: █
+              - generic [ref=e722]: ░
+              - generic [ref=e723]: ░
+              - generic [ref=e724]: ░
+              - generic [ref=e725]: ░
+              - generic [ref=e726]: ░
+      - generic [ref=e727]:
+        - generic [ref=e728]: "EQUIPPED: 12 / 12"
+        - generic [ref=e729]: "AVG MASTERY: 76%"
+        - generic [ref=e730]: "STATUS: READY"
+    - generic [ref=e732]:
+      - separator "OPTIONAL OBJECTIVES // SIDE QUESTS" [ref=e733]:
+        - generic [ref=e734]: //
+        - generic [ref=e736]: OPTIONAL OBJECTIVES // SIDE QUESTS
+        - generic [ref=e738]: //
+      - heading "SIDE QUESTS" [level=2] [ref=e739]
+      - paragraph [ref=e740]: Not main story. Still worth the XP. Mostly writing, open source, weird experiments, and the occasional zine nobody asked for.
+      - list [ref=e741]:
+        - listitem [ref=e742]:
+          - generic [ref=e743]:
+            - generic [ref=e744]: QUEST
+            - generic [ref=e745]: "01"
+          - generic [ref=e746]:
+            - generic [ref=e747]:
+              - generic [ref=e748]: WRITING
+              - generic [ref=e750]: "2024"
+            - heading "INTERFACES HAVE BODY LANGUAGE" [level=3] [ref=e751]
+            - paragraph [ref=e752]: An essay on why some pages feel alive and others feel like tax forms. Read ~38K times, quoted in a Smashing Magazine editorial, printed on a Figma office wall.
+          - generic [ref=e754]: CLEARED
+        - listitem [ref=e756]:
+          - generic [ref=e757]:
+            - generic [ref=e758]: QUEST
+            - generic [ref=e759]: "02"
+          - generic [ref=e760]:
+            - generic [ref=e761]:
+              - generic [ref=e762]: TALK
+              - generic [ref=e764]: "2025"
+            - heading "CSS IS A TIMING FUNCTION — CONFIG 2025" [level=3] [ref=e765]
+            - paragraph [ref=e766]: 22-minute talk on treating design tokens as choreography cues. Got a standing ovation from one person in the back row, which counts.
+          - generic [ref=e768]: CLEARED
+        - listitem [ref=e770]:
+          - generic [ref=e771]:
+            - generic [ref=e772]: QUEST
+            - generic [ref=e773]: "03"
+          - generic [ref=e774]:
+            - generic [ref=e775]:
+              - generic [ref=e776]: OSS
+              - generic [ref=e778]: 2022→
+            - heading "EASE.TS — A PHYSICS-BASED ANIMATION LIB" [level=3] [ref=e779]
+            - paragraph [ref=e780]: ~14K monthly npm installs. Zero dependencies. One maintainer who answers issues at 1am in pajamas.
+          - generic [ref=e782]: ONGOING
+        - listitem [ref=e784]:
+          - generic [ref=e785]:
+            - generic [ref=e786]: QUEST
+            - generic [ref=e787]: "04"
+          - generic [ref=e788]:
+            - generic [ref=e789]:
+              - generic [ref=e790]: EXPERIMENT
+              - generic [ref=e792]: "2023"
+            - heading "A CURSOR THAT REMEMBERS WHERE IT'S BEEN" [level=3] [ref=e793]
+            - paragraph [ref=e794]: A 200-line proof of concept that drew trails and learned your scroll habits. Never shipped. The GIFs did the rounds on Twitter for a week.
+          - generic [ref=e796]: ARCHIVED
+        - listitem [ref=e798]:
+          - generic [ref=e799]:
+            - generic [ref=e800]: QUEST
+            - generic [ref=e801]: "05"
+          - generic [ref=e802]:
+            - generic [ref=e803]:
+              - generic [ref=e804]: WEIRD
+              - generic [ref=e806]: "2024"
+            - heading "THE BOOK OF UNREAD TOOLTIPS" [level=3] [ref=e807]
+            - paragraph [ref=e808]: "Zine project: 48 tooltips nobody has ever seen in production, printed risograph, sold 200 copies to UX people at a SF gallery pop-up."
+          - generic [ref=e810]: CLEARED
+        - listitem [ref=e812]:
+          - generic [ref=e813]:
+            - generic [ref=e814]: QUEST
+            - generic [ref=e815]: "06"
+          - generic [ref=e816]:
+            - generic [ref=e817]:
+              - generic [ref=e818]: ADVISORY
+              - generic [ref=e820]: 2023–25
+            - heading "DESIGN SYSTEMS @ 3 × SERIES B" [level=3] [ref=e821]
+            - paragraph [ref=e822]: Three quiet engagements. Turned three different component libraries into things the engineers actually enjoyed using. NDAs mean no logos.
+          - generic [ref=e824]: ONGOING
+        - listitem [ref=e826]:
+          - generic [ref=e827]:
+            - generic [ref=e828]: QUEST
+            - generic [ref=e829]: "07"
+          - generic [ref=e830]:
+            - generic [ref=e831]:
+              - generic [ref=e832]: "???"
+              - generic [ref=e834]: "????"
+            - heading "???" [level=3] [ref=e835]
+            - paragraph [ref=e836]: You found the seventh quest. It has no title yet. It will when it's ready. Come back later — it will have moved.
+          - generic [ref=e838]: "???"
+    - generic [ref=e841]:
+      - generic [ref=e842]:
+        - generic [ref=e847]: uplink // kai@player_01
+        - generic [ref=e848]: ● REC
+      - generic [ref=e849]:
+        - generic [ref=e850]: "╔══════════════════════════════════════════════╗ ║ PLAYER_01 :: SECURE UPLINK v2.6.4 ║ ║ STATUS: CONNECTION ESTABLISHED ║ ║ HOST: kai@player_01.dev ║ ╚══════════════════════════════════════════════╝ type 'help' for a list of commands."
+        - generic [ref=e851]:
+          - generic [ref=e852]: kai@player_01:~$
+          - textbox "terminal input" [ref=e853]:
+            - /placeholder: type 'help'
+          - generic [ref=e854]: _
+      - generic [ref=e855]:
+        - generic [ref=e856]: uplink stable
+        - generic [ref=e857]: 0 transmissions
+        - generic [ref=e858]: enter to send
+    - generic "Credits" [ref=e859]:
+      - generic [ref=e861]:
+        - separator "END OF LINE" [ref=e862]:
+          - generic [ref=e863]: //
+          - generic [ref=e865]: END OF LINE
+          - generic [ref=e867]: //
+        - heading "PLAYER_01.EXE" [level=2] [ref=e868]
+        - paragraph [ref=e869]: CREDITS ROLL // SCRUB TO ADVANCE
+        - generic [ref=e870]:
+          - generic [ref=e871]:
+            - generic [ref=e872]: DIRECTED BY
+            - generic [ref=e873]: ......
+            - generic [ref=e874]: KAI RIOS
+          - generic [ref=e875]:
+            - generic [ref=e876]: CINEMATOGRAPHY
+            - generic [ref=e877]: ......
+            - generic [ref=e878]: THREE.JS
+          - generic [ref=e879]:
+            - generic [ref=e880]: SCORE
+            - generic [ref=e881]: ......
+            - generic [ref=e882]: LO-FI HIP HOP RADIO (24/7 STREAM)
+          - generic [ref=e883]:
+            - generic [ref=e884]: LEAD DEV
+            - generic [ref=e885]: ......
+            - generic [ref=e886]: KAI RIOS
+          - generic [ref=e887]:
+            - generic [ref=e888]: TEXT LAYOUT
+            - generic [ref=e889]: ......
+            - generic [ref=e890]: "@CHENGLOU / PRETEXT"
+          - generic [ref=e891]:
+            - generic [ref=e892]: MOTION
+            - generic [ref=e893]: ......
+            - generic [ref=e894]: GSAP + FRAMER MOTION
+          - generic [ref=e895]:
+            - generic [ref=e896]: BUILD TOOLING
+            - generic [ref=e897]: ......
+            - generic [ref=e898]: VITE + TYPESCRIPT
+          - generic [ref=e899]:
+            - generic [ref=e900]: CATERING
+            - generic [ref=e901]: ......
+            - generic [ref=e902]: PHILZ COFFEE
+          - generic [ref=e903]:
+            - generic [ref=e904]: GAFFER
+            - generic [ref=e905]: ......
+            - generic [ref=e906]: A SINGLE RIM LIGHT
+          - generic [ref=e907]:
+            - generic [ref=e908]: KEY GRIP
+            - generic [ref=e909]: ......
+            - generic [ref=e910]: SEGFAULT THE CAT
+          - generic [ref=e911]:
+            - generic [ref=e912]: QA
+            - generic [ref=e913]: ......
+            - generic [ref=e914]: THREE PEOPLE IN A DISCORD
+          - generic [ref=e915]:
+            - generic [ref=e916]: PROOFREADING
+            - generic [ref=e917]: ......
+            - generic [ref=e918]: GRAMMARLY (AND FAILING)
+          - generic [ref=e919]:
+            - generic [ref=e920]: MADE IN
+            - generic [ref=e921]: ......
+            - generic [ref=e922]: SAN FRANCISCO, CA
+          - generic [ref=e923]:
+            - generic [ref=e924]: YEAR
+            - generic [ref=e925]: ......
+            - generic [ref=e926]: "2026"
+          - generic [ref=e927]:
+            - generic [ref=e928]: SPECIAL THANKS
+            - generic [ref=e929]: ......
+            - generic [ref=e930]: YOU, FOR SCROLLING THIS FAR
+        - generic [ref=e931]:
+          - separator "CONTACT" [ref=e932]:
+            - generic [ref=e933]: //
+            - generic [ref=e935]: CONTACT
+            - generic [ref=e937]: //
+          - generic [ref=e938]:
+            - generic [ref=e939]:
+              - generic [ref=e940]: GITHUB
+              - generic [ref=e941]: ......
+              - link "@kairios" [ref=e942]:
+                - /url: https://github.com/kairios
+            - generic [ref=e943]:
+              - generic [ref=e944]: TWITTER
+              - generic [ref=e945]: ......
+              - link "@kai_exe" [ref=e946]:
+                - /url: https://twitter.com/kai_exe
+            - generic [ref=e947]:
+              - generic [ref=e948]: READ.CV
+              - generic [ref=e949]: ......
+              - link "/kai" [ref=e950]:
+                - /url: https://read.cv/kai
+            - generic [ref=e951]:
+              - generic [ref=e952]: DRIBBBLE
+              - generic [ref=e953]: ......
+              - link "/kairios" [ref=e954]:
+                - /url: https://dribbble.com/kairios
+            - generic [ref=e955]:
+              - generic [ref=e956]: EMAIL
+              - generic [ref=e957]: ......
+              - link "kai@player01.dev" [ref=e958]:
+                - /url: mailto:kai@player01.dev
+        - generic [ref=e959]:
+          - generic [ref=e960]: THANKS FOR PLAYING.
+          - generic [ref=e961]: A PLAYER_01 PRODUCTION · San Francisco, CA
+          - generic [ref=e962]:
+            - text: PRESS
+            - generic [ref=e964]: R
+            - text: TO RESTART
+          - generic [ref=e965]: // EOF //
+  - generic:
+    - generic:
+      - generic: PLAYER_01
+      - generic: —
+      - generic: KAI RIOS
+      - generic: LV.01
+    - generic:
+      - generic: POS
+      - generic: "[0000,0000]"
+    - generic:
+      - generic: SF
+      - generic: 09:36:15 PT
+    - generic:
+      - generic:
+        - generic: "[NEW GAME]"
+        - generic: LV.01
+      - generic:
+        - generic: XP
+        - generic: 000/250
+    - navigation:
+      - button [ref=e966]:
+        - generic: TITLE
+      - button [ref=e969]:
+        - generic: HERO
+      - button [ref=e972]:
+        - generic: CHARACTER
+      - button [ref=e975]:
+        - generic: LORE
+      - button [ref=e978]:
+        - generic: WORLD_MAP
+      - button [ref=e981]:
+        - generic: BOSSES
+      - button [ref=e984]:
+        - generic: ARSENAL
+      - button [ref=e987]:
+        - generic: SIDE_QUESTS
+      - button [ref=e990]:
+        - generic: CONTACT
+      - button [ref=e993]:
+        - generic: CREDITS
