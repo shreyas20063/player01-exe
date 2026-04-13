@@ -174,7 +174,6 @@ Spring physics via `useMotionValue` + `useSpring` (stiffness 500, damping 40). U
 | Smooth scroll | Lenis |
 | 3D | Three.js + React Three Fiber v9 + drei v10 |
 | Shaders | Custom GLSL via vite-plugin-glsl |
-| Text layout | `@chenglou/pretext` 0.0.5 (Cheng Lou's zero-DOM text measurement) |
 | State | Zustand + persist middleware |
 
 ---
@@ -238,7 +237,7 @@ Node 22, npm 10.
 ## Credits
 
 - **Fonts** — Anton, JetBrains Mono, Space Grotesk (Google Fonts)
-- **Text layout** — [`@chenglou/pretext`](https://github.com/chenglou/pretext) by Cheng Lou (MIT)
+- **Text layout** — [`@chenglou/pretext`](https://github.com/chenglou/pretext) by Cheng Lou (MIT) — had an idea to use this for dynamic text reflow around the 3D hero bust, never got the chance to integrate it but it actually looks great
 - **3D** — Three.js, React Three Fiber, drei, postprocessing
 - **Motion** — GSAP, Framer Motion, Lenis
 - **AI** — Claude Opus 4.6 via Claude Code. The vibes were human. The boilerplate was not.

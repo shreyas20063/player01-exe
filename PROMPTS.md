@@ -48,7 +48,7 @@ Then dispatched **6 build agents simultaneously in one message**:
 | A1 RENDER_CORE | 3D shader rock (vertex + fragment GLSL), R3F scene, hero section |
 | A2 SCROLL_RIDER | Boss gauntlet horizontal pin, lore scroll, side quests, credits roll |
 | A3 FRAME_FORGE | Arsenal magnetic hover grid, world map, character select |
-| A4 TERMINAL_OPS | Boot sequence, title card, contact terminal, text components, PretextFlow |
+| A4 TERMINAL_OPS | Boot sequence, title card, contact terminal, text components |
 | A5 HUD_OPERATOR | Full HUD overlay, custom cursor, noise/scanline effects, achievement toasts |
 | A6 ARCADE_CABINET | Konami code, mini-game |
 
