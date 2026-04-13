@@ -16,7 +16,8 @@ Built with Claude Opus 4.6, an army of 6 parallel AI agents, and an unreasonable
 
 ## How to Navigate
 
-1. **Boot sequence** types itself out. Press any key to skip (or wait, it's kinda cool).
+1. **Just play around with things.** A lot of elements are interactive even if they don't look like it at first glance. Hover stuff. Click stuff. Type stuff. You'll find things.
+2. **Boot sequence** types itself out. Press any key to skip (or wait, it's kinda cool).
 2. **Scroll down.** That's it. That's the entire interaction model. We told you upfront.
 3. The HUD in the corners is real — your XP bar fills as you explore, achievements pop when you do things.
 4. When you reach the **Contact Terminal**, type `help`. Or `sudo make me a sandwich`. We won't judge.
